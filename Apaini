@@ -8,7 +8,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b
 https://etslive-2-vidio-com.akamaized.net/exp=1575187445~acl=/hls-p/ingest_204_*/*~hmac=13f200daaa3ab55a0754d7569472e2126bb6043ccc533f3ce447ac8671ad75f7/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1575150604~acl=/hls-b/ingest_205_*/*~hmac=1a09b7bc163a5e0009943d512137dd35299e960655bd8ef7273d54d3e92b3ea7/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575318448~acl=/hls-p/ingest_205_*/*~hmac=59ed1b02b20eb521f0c52a9afaf133b0ff1dff5d1775db0fd616054fe3442c6f/hls-p/ingest_205_480p/1575174512340.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg",KOMPAS
 https://etslive-2-vidio-com.akamaized.net/exp=1575148709~acl=/hls-b/ingest_874_*/*~hmac=024f2b812ea6ba05344495373883cce74baf9867957b33ec7e3659fe5a74a5df/hls-b/ingest_874_720p/index.m3u8
