@@ -23,7 +23,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1575322446~acl=/hls-b/ingest_777_*/*~hmac=e129c1f3b218411c6b32ce2c3b6ed47f0441065e8b5b7d51e1b0166972177172/hls-b/ingest_777_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg",ANTV
-https://cdnbal1.useetv.com/joss/15/antv/chunklist_w61787801_b894100_sleng.m3u8?enc=eb4SX5mALtikwXcN1YowWQ&exp=1575187543
+https://cdnjt25.useetv.com/joss/15/antv/chunklist_w61787801_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS7
 https://etslive-2-vidio-com.akamaized.net/exp=1575322658~acl=/hls-b/ingest_734_*/*~hmac=657bde9c4816041dd9c49bd867a8687793ca86f075970db4888c62119cff11cc/hls-b/ingest_734_720p/index.m3u8
