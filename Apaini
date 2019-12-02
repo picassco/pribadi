@@ -47,10 +47,10 @@ http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 https://etslive-2-vidio-com.akamaized.net/exp=1575322833~acl=/hls-p/ingest_geo_1561_*/*~hmac=0e287185eb4a2e640e2a4d09649f11fc4c63fd7bb6444faa9cc034b5433971cb/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET
-https://cdnbdsa1.useetv.com/joss/15/net/chunklist_w1584820306_b1344100_sleng.m3u8?enc=q8V5hlNAnVDAYRY4AFLIog&exp=1575187930
+https://cdnbal1.useetv.com/joss/15/net/chunklist_w1865186946_b1344100_sleng.m3u8?enc=QnlmErocOZS64c6Hs1RTZg&exp=1575270941
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
-https://edgejt7.useetv.com/joss/15/tvri/chunklist_w163561171_b684100_sleng.m3u8?enc=S4qydygZ2-dnY2LZBfUF_w&exp=1575188076
+https://cdnmdc2.useetv.com/joss/15/tvri/chunklist_w1446074851_b684100_sleng.m3u8?enc=vTLXo1RHo2ilSyU8C7Vtcw&exp=1575271037
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg",DW
 https://etslive-2-vidio-com.akamaized.net/exp=1575323145~acl=/hls-b/ingest_5075_*/*~hmac=5cbcc7e3cf5ff501e91b2ff4815e677d767b8bd2091a45bfae4780240fccfd69/hls-b/ingest_5075_720p/index.m3u8
