@@ -64,6 +64,9 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-16,THRILL
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
+#EXTINF:-1,Sky Cinema Uno HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/297.m3u8
+
 #EXTINF:-16,FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
@@ -128,3 +131,27 @@ http://198.255.5.58:9981/stream/channelid/762672896?ticket=D49AFE88D3E1F0486C905
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
 http://198.255.5.58:9981/stream/channelid/813529725?ticket=AC790DCD7C457A8A336072B8BBE2A9D8307CFE1F&profile=pass
+
+#EXTINF:-1,Sky Sport 24 HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/294.m3u8
+
+#EXTINF:-1,Sky Sport MotoGP HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/305.m3u8
+
+#EXTINF:-1,Sky Sport F1 Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/310.m3u8
+
+#EXTINF:-1,Sky Sport Arena HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/313.m3u8
+
+#EXTINF:-1,Super Tennis HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/341.m3u8
+
+#EXTINF:-1,|IT| Sky Sport NBA HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/331.m3u8
+
+#EXTINF:-1,|IT| Sky Sport Uno Full HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
+
+#EXTINF:-1,|IT| Sky Sport Serie A HD
+http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
