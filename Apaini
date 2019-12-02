@@ -116,3 +116,15 @@ http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 
 #EXTINF:-1,REDBULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3245fe_9ae14871eb914b9bb2f541fc612fb1c7~mv2.png/v1/fill/w_312,h_168,al_c,lg_1,q_80/astro-sports.webp" group-title="Sport",ASTRO SUPERSPORT
+http://198.255.5.58:9981/stream/channelid/1967715841?ticket=8B47152DA7663A4646CAD56DE02BC1BCB501636E&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Astro_supersport_2_flat_logo.png/revision/latest?cb=20190821105105" group-title="Sport",ASTRO SUPERSPORT 2
+http://198.255.5.58:9981/stream/channelid/1006895579?ticket=99F5F6609B85C941C68055D7DF848175FF12E046&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Astro_supersport_3_flat_logo.png/revision/latest?cb=20190821131528" group-title="Sport",ASTRO SUPERSPORT 3
+http://198.255.5.58:9981/stream/channelid/762672896?ticket=D49AFE88D3E1F0486C905B9937637E29F5C0CD6F&profile=pass
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
+http://198.255.5.58:9981/stream/channelid/813529725?ticket=AC790DCD7C457A8A336072B8BBE2A9D8307CFE1F&profile=pass
