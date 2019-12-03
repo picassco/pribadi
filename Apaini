@@ -141,55 +141,53 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817AD
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pas
 
 ############################
-#EXTINF:-1 tvg-logo=""," group-title="Sport", MNC SPORT
-https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", ADSPORT1
+#EXTINF:-1 tvg-logo="" " group-title="Sport", ADSPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", ADSPORT2
+#EXTINF:-1 tvg-logo="" " group-title="Sport", ADSPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", FOX SPORT 1
+#EXTINF:-1 tvg-logo="" " group-title="Sport", FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", FOX SPORT 2
+#EXTINF:-1 tvg-logo="" " group-title="Sport", FOX SPORT 2
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", STARs1
+#EXTINF:-1 tvg-logo="" " group-title="Sport", STARs1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34489
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", STARs2
+#EXTINF:-1 tvg-logo="" " group-title="Sport", STARs2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34488
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY TEN1
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SONY TEN1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34486
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY TEN2
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SONY TEN2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34485
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY TEN3
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SONY TEN3
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34484
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY ESPN
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SONY ESPN
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34495
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY SIX
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SONY SIX
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34494
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SK1
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SK1
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/444.ts
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", SK2
+#EXTINF:-1 tvg-logo="" " group-title="Sport", SK2
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/445.ts
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", RMC SPORT 1HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", RMC SPORT 1HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", RMC SPORT 2FHD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", RMC SPORT 2FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", REDBULL TV
+#EXTINF:-1 tvg-logo="" " group-title="Sport", REDBULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3245fe_9ae14871eb914b9bb2f541fc612fb1c7~mv2.png/v1/fill/w_312,h_168,al_c,lg_1,q_80/astro-sports.webp" group-title="Sport",ASTRO SUPERSPORT 1
@@ -204,26 +202,26 @@ http://198.255.5.58:9981/stream/channelid/762672896?ticket=D49AFE88D3E1F0486C905
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
 http://198.255.5.58:9981/stream/channelid/813529725?ticket=AC790DCD7C457A8A336072B8BBE2A9D8307CFE1F&profile=pass
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport 24 HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport 24 HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/294.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport MotoGP HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport MotoGP HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/305.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport F1 Full HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport F1 Full HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/310.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport Arena HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport Arena HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/313.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Super Tennis HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Super Tennis HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/341.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport NBA HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport NBA HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/331.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport Uno Full HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport Uno Full HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
 
-#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport Serie A HD
+#EXTINF:-1 tvg-logo="" " group-title="Sport", Sky Sport Serie A HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
