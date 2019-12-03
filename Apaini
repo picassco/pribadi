@@ -50,7 +50,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1575488428~acl=/hls-p/ingest_geo_1
 https://etslive-2-vidio-com.akamaized.net/exp=1575488476~acl=/hls-p/ingest_875_*/*~hmac=a57894e0233e5158acf634c083975279ad706c5113131b4a30f7f5b9193d4184/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
-https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+https://cdn-livetv1.metube.id/hls/tvri_240/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg",DW
 https://etslive-2-vidio-com.akamaized.net/exp=1575488584~acl=/hls-p/ingest_5075_*/*~hmac=6245a165859443dd292e68ffda3a262daf3257df2ca0e0c732abc800a3fa853e/hls-p/ingest_5075_720p/index.m3u8
