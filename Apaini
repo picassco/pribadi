@@ -1,72 +1,72 @@
 #EXTM3U8
 
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1",CNN INDONESIA
+#EXTINF:0 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w148876041_b384000_sleng.m3u8
 
-#EXTINF:-2 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=1.8.1",CNBC INDONESIA
+#EXTINF:0 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=1.8.1",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8
 
-#EXTINF:-3 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg",SCTV
+#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1575487506~acl=/hls-p/ingest_204_*/*~hmac=3d717d3e127d07c6bc9f68ec90b562bcb1ce0d041705b6c7796f771c06bc9de6/hls-p/ingest_204_720p/index.m3u8
 
-#EXTINF:-4 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg",INDOSIAR
+#EXTINF:0 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1575487559~acl=/hls-p/ingest_205_*/*~hmac=d85b7a68ad20a3cd5e88fc0642ceed34bc9221855310bef91b52e70ee5021687/hls-p/ingest_205_720p/index.m3u8
 
-#EXTINF:-5 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg",KOMPAS
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg",KOMPAS
 http://210.210.155.35/session/17ae3380-1585-11ea-9f45-bb19983cb212/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-6 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg",TV ONE
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg",TV ONE
 https://etslive-2-vidio-com.akamaized.net/exp=1575487756~acl=/hls-p/ingest_783_*/*~hmac=6bd33094fa5bf6cf538be89ae93e13213bfbbe1f9f5bd6576ac7c145e773ee17/hls-p/ingest_783_720p/index.m3u8
 
-#EXTINF:-7 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1WDgtJrnV0iA7RX_dNo-OP1JTXc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg",BERITA SATU
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1WDgtJrnV0iA7RX_dNo-OP1JTXc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-8 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg",METRO TV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg",METRO TV
 https://etslive-2-vidio-com.akamaized.net/exp=1575487843~acl=/hls-p/ingest_777_*/*~hmac=4566f4871961b1d5fe4fbd700e45940fb1bb8223adf161f286a2a0acd864d2f8/hls-p/ingest_777_720p/index.m3u8
 
-#EXTINF:-9 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg",ANTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg",ANTV
 https://etslive-2-vidio-com.akamaized.net/exp=1575487907~acl=/hls-p/ingest_782_*/*~hmac=60ceaae3b417f037f32394acbf5047ce06c00bfb71f2b81a1953b59b946d170e/hls-p/ingest_782_720p/index.m3u8
 
-#EXTINF:-10 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS7
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS7
 https://etslive-2-vidio-com.akamaized.net/exp=1575487940~acl=/hls-p/ingest_734_*/*~hmac=9876fefba20d284700a394e469aef8840dfe1e68e6ebd5d28ee73c4198851e88/hls-p/ingest_734_720p/index.m3u8
 
-#EXTINF:-11 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg",TRANS TV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg",TRANS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1575488005~acl=/hls-p/ingest_733_*/*~hmac=e3b7ebf36c9f2d4464ea99a5e48e2edd35df91e66629e32323dc832a30f68177/hls-p/ingest_733_720p/index.m3u8
 
-#EXTINF:-12 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg",RCTI
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-13 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",MNC
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-14 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg",GTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
-#EXTINF:-15 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg",I NEWS
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-16 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg",RTV
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg",RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1575488428~acl=/hls-p/ingest_geo_1561_*/*~hmac=b43590ee00e6d7ecfa3fda5a03e38abe3d9923bfb5aad54029d97151a319e2b0/hls-p/ingest_geo_1561_720p/index.m3u8
 
-#EXTINF:-17 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET
 https://etslive-2-vidio-com.akamaized.net/exp=1575488476~acl=/hls-p/ingest_875_*/*~hmac=a57894e0233e5158acf634c083975279ad706c5113131b4a30f7f5b9193d4184/hls-p/ingest_875_720p/index.m3u8
 
-#EXTINF:-18 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
 
-#EXTINF:-19 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg",DW
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg",DW
 https://etslive-2-vidio-com.akamaized.net/exp=1575488584~acl=/hls-p/ingest_5075_*/*~hmac=6245a165859443dd292e68ffda3a262daf3257df2ca0e0c732abc800a3fa853e/hls-p/ingest_5075_720p/index.m3u8
 
-#EXTINF:-20,JTV
+#EXTINF:-1,JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-21,MAINAN OLIVE DAN DARRELL
+#EXTINF:-1,MAINAN OLIVE DAN DARRELL
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-22,THRILL
+#EXTINF:-1,THRILL
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-23,Sky Cinema Uno HD
+#EXTINF:-1,Sky Cinema Uno HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/297.m3u8
 
 #EXTINF:-1, FTV
@@ -94,7 +94,7 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="INDIHOME TV",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDIHOME TV",Animal Planet
+#EXTINF:0 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDIHOME TV",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 #EXTINF:-1 tvg-name="ASIAN FOOD CHANEL" tvg-logo="" group-title="INDIHOME TV",Asian Food Channel
@@ -156,16 +156,16 @@ http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 #EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", FOX SPORT 2
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", STARs1
+#EXTINF:0 tvg-name="AD2" tvg-logo="" group-title="Sport", STARs1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34489
 
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", STARs2
+#EXTINF:0 tvg-name="AD2" tvg-logo="" group-title="Sport", STARs2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34488
 
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", SONY TEN1
+#EXTINF:0 tvg-name="AD2" tvg-logo="" group-title="Sport", SONY TEN1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34486
 
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", SONY TEN2
+#EXTINF:0 tvg-name="AD2" tvg-logo="" group-title="Sport", SONY TEN2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34485
 
 #EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", SONY TEN3
