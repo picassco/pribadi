@@ -142,10 +142,10 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 
 ############################
 
-#EXTINF:-1 tvg-logo="" group-title="Sport", ADSPORT1
+#EXTINF:-1 tvg-name="AD1" tvg-logo="" group-title="Sport", ADSPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 
-#EXTINF:-1 tvg-logo="" " group-title="Sport", ADSPORT2
+#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", ADSPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 
 #EXTINF:-1 tvg-logo="" " group-title="Sport", FOX SPORT 1
