@@ -5,55 +5,58 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w148876041_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1575321510~acl=/hls-b/ingest_204_*/*~hmac=29aca0f86cfef4827dacaf5f135b90ccbaeb5695abaa52ca763431bd65380a25/hls-b/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575487506~acl=/hls-p/ingest_204_*/*~hmac=3d717d3e127d07c6bc9f68ec90b562bcb1ce0d041705b6c7796f771c06bc9de6/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1575321705~acl=/hls-b/ingest_205_*/*~hmac=454c555e17b204f5fd581d95752033d7ba2e0d40cc108830243266858553c48c/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575487559~acl=/hls-p/ingest_205_*/*~hmac=d85b7a68ad20a3cd5e88fc0642ceed34bc9221855310bef91b52e70ee5021687/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg",KOMPAS
 https://etslive-2-vidio-com.akamaized.net/exp=1575322363~acl=/hls-b/ingest_874_*/*~hmac=7f3eb4bf0a49d38624f16f0b6ad7166eec12d9ad26e0f76334ef4d83bbe7d0ba/hls-b/ingest_874_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg",TV ONE
-https://etslive-2-vidio-com.akamaized.net/exp=1575321860~acl=/hls-b/ingest_783_*/*~hmac=b876028618e7378c9c80f4412c8d8ba1786952710e5e3d9fbea381a1dde2ec3d/hls-b/ingest_783_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575487756~acl=/hls-p/ingest_783_*/*~hmac=6bd33094fa5bf6cf538be89ae93e13213bfbbe1f9f5bd6576ac7c145e773ee17/hls-p/ingest_783_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1WDgtJrnV0iA7RX_dNo-OP1JTXc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg",METRO TV
-https://etslive-2-vidio-com.akamaized.net/exp=1575322446~acl=/hls-b/ingest_777_*/*~hmac=e129c1f3b218411c6b32ce2c3b6ed47f0441065e8b5b7d51e1b0166972177172/hls-b/ingest_777_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575487843~acl=/hls-p/ingest_777_*/*~hmac=4566f4871961b1d5fe4fbd700e45940fb1bb8223adf161f286a2a0acd864d2f8/hls-p/ingest_777_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg",ANTV
-https://cdnjt25.useetv.com/joss/15/antv/chunklist_w61787801_b894100_sleng.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575487907~acl=/hls-p/ingest_782_*/*~hmac=60ceaae3b417f037f32394acbf5047ce06c00bfb71f2b81a1953b59b946d170e/hls-p/ingest_782_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg",TRANS7
-https://etslive-2-vidio-com.akamaized.net/exp=1575322658~acl=/hls-b/ingest_734_*/*~hmac=657bde9c4816041dd9c49bd867a8687793ca86f075970db4888c62119cff11cc/hls-b/ingest_734_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575487940~acl=/hls-p/ingest_734_*/*~hmac=9876fefba20d284700a394e469aef8840dfe1e68e6ebd5d28ee73c4198851e88/hls-p/ingest_734_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg",TRANS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1575322593~acl=/hls-b/ingest_733_*/*~hmac=b8f55df13d308622954e8f43f9c848fe7d1e9b5fb32eb770a347459f26cf435c/hls-b/ingest_733_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575488005~acl=/hls-p/ingest_733_*/*~hmac=e3b7ebf36c9f2d4464ea99a5e48e2edd35df91e66629e32323dc832a30f68177/hls-p/ingest_733_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1575322713~acl=/hls-b/ingest_665_*/*~hmac=471424d556c1a4da678c421ce273ddfc36edf35525735becbfb06ea146ed6ba7/hls-b/ingest_665_720p/index.m3u8
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",MNC
-https://etslive-2-vidio-com.akamaized.net/exp=1575322767~acl=/hls-b/ingest_870_*/*~hmac=34cd87758a31f0156544469d07e6bc1208c3eb352ced42744e4260bd9ea946ff/hls-b/ingest_870_720p/index.m3u8
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1575322801~acl=/hls-b/ingest_778_*/*~hmac=3a7d74db99a15b701696738ee32fd1197d277962d3df0f2831424fabbcf3acfb/hls-b/ingest_778_720p/index.m3u8
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg",RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1575322833~acl=/hls-p/ingest_geo_1561_*/*~hmac=0e287185eb4a2e640e2a4d09649f11fc4c63fd7bb6444faa9cc034b5433971cb/hls-p/ingest_geo_1561_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575488428~acl=/hls-p/ingest_geo_1561_*/*~hmac=b43590ee00e6d7ecfa3fda5a03e38abe3d9923bfb5aad54029d97151a319e2b0/hls-p/ingest_geo_1561_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg",NET
-https://cdnbal1.useetv.com/joss/15/net/chunklist_w1865186946_b1344100_sleng.m3u8?enc=QnlmErocOZS64c6Hs1RTZg&exp=1575270941
+https://etslive-2-vidio-com.akamaized.net/exp=1575488476~acl=/hls-p/ingest_875_*/*~hmac=a57894e0233e5158acf634c083975279ad706c5113131b4a30f7f5b9193d4184/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
-https://cdnmdc2.useetv.com/joss/15/tvri/chunklist_w1446074851_b684100_sleng.m3u8?enc=vTLXo1RHo2ilSyU8C7Vtcw&exp=1575271037
+https://cdn-livetv1.metube.id/hls/tvri_240/745447.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg",DW
-https://etslive-2-vidio-com.akamaized.net/exp=1575323145~acl=/hls-b/ingest_5075_*/*~hmac=5cbcc7e3cf5ff501e91b2ff4815e677d767b8bd2091a45bfae4780240fccfd69/hls-b/ingest_5075_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575488584~acl=/hls-p/ingest_5075_*/*~hmac=6245a165859443dd292e68ffda3a262daf3257df2ca0e0c732abc800a3fa853e/hls-p/ingest_5075_720p/index.m3u8
 
 #EXTINF:-16,JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -71,53 +74,55 @@ http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/297.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 ############################
+#EXTINF:-1," group-title="Sport", MNC SPORT
+https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
 
-#EXTINF:-1,ADSPORT1
+#EXTINF:-1," group-title="Sport", ADSPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 
-#EXTINF:-1,ADSPORT2
+#EXTINF:-1," group-title="Sport", ADSPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 
-#EXTINF:-1 ,FOX SPORT 1
+#EXTINF:-1 ," group-title="Sport", FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 
-#EXTINF:-1 ,FOX SPORT 2
+#EXTINF:-1 ," group-title="Sport", FOX SPORT 2
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 
-#EXTINF:-1,STARs1
+#EXTINF:-1," group-title="Sport", STARs1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34489
 
-#EXTINF:-1,STARs2
+#EXTINF:-1," group-title="Sport", STARs2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34488
 
-#EXTINF:-1,SONY TEN1
+#EXTINF:-1," group-title="Sport", SONY TEN1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34486
 
-#EXTINF:-1,SONY TEN2
+#EXTINF:-1," group-title="Sport", SONY TEN2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34485
 
-#EXTINF:-1,SONY TEN3
+#EXTINF:-1," group-title="Sport", SONY TEN3
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34484
 
-#EXTINF:-1,SONY ESPN
+#EXTINF:-1," group-title="Sport", SONY ESPN
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34495
 
-#EXTINF:-1,SONY SIX
+#EXTINF:-1," group-title="Sport", SONY SIX
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34494
 
-#EXTINF:-1,SK1
+#EXTINF:-1," group-title="Sport", SK1
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/444.ts
 
-#EXTINF:-1,SK2
+#EXTINF:-1," group-title="Sport", SK2
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/445.ts
 
-#EXTINF:-1,RMC SPORT 1HD
+#EXTINF:-1," group-title="Sport", RMC SPORT 1HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
 
-#EXTINF:-1,RMC SPORT 2FHD
+#EXTINF:-1," group-title="Sport", RMC SPORT 2FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 
-#EXTINF:-1,REDBULL TV
+#EXTINF:-1," group-title="Sport", REDBULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3245fe_9ae14871eb914b9bb2f541fc612fb1c7~mv2.png/v1/fill/w_312,h_168,al_c,lg_1,q_80/astro-sports.webp" group-title="Sport",ASTRO SUPERSPORT
@@ -132,26 +137,26 @@ http://198.255.5.58:9981/stream/channelid/762672896?ticket=D49AFE88D3E1F0486C905
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
 http://198.255.5.58:9981/stream/channelid/813529725?ticket=AC790DCD7C457A8A336072B8BBE2A9D8307CFE1F&profile=pass
 
-#EXTINF:-1,Sky Sport 24 HD
+#EXTINF:-1," group-title="Sport", Sky Sport 24 HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/294.m3u8
 
-#EXTINF:-1,Sky Sport MotoGP HD
+#EXTINF:-1," group-title="Sport", Sky Sport MotoGP HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/305.m3u8
 
-#EXTINF:-1,Sky Sport F1 Full HD
+#EXTINF:-1," group-title="Sport", Sky Sport F1 Full HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/310.m3u8
 
-#EXTINF:-1,Sky Sport Arena HD
+#EXTINF:-1," group-title="Sport", Sky Sport Arena HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/313.m3u8
 
-#EXTINF:-1,Super Tennis HD
+#EXTINF:-1," group-title="Sport", Super Tennis HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/341.m3u8
 
-#EXTINF:-1,|IT| Sky Sport NBA HD
+#EXTINF:-1," group-title="Sport", Sky Sport NBA HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/331.m3u8
 
-#EXTINF:-1,|IT| Sky Sport Uno Full HD
+#EXTINF:-1," group-title="Sport", Sky Sport Uno Full HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
 
-#EXTINF:-1,|IT| Sky Sport Serie A HD
+#EXTINF:-1," group-title="Sport", Sky Sport Serie A HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
