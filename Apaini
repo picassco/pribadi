@@ -11,7 +11,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1575487506~acl=/hls-p/ingest_204_*
 https://etslive-2-vidio-com.akamaized.net/exp=1575487559~acl=/hls-p/ingest_205_*/*~hmac=d85b7a68ad20a3cd5e88fc0642ceed34bc9221855310bef91b52e70ee5021687/hls-p/ingest_205_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg",KOMPAS
-https://etslive-2-vidio-com.akamaized.net/exp=1575322363~acl=/hls-b/ingest_874_*/*~hmac=7f3eb4bf0a49d38624f16f0b6ad7166eec12d9ad26e0f76334ef4d83bbe7d0ba/hls-b/ingest_874_720p/index.m3u8
+http://210.210.155.35/session/17ae3380-1585-11ea-9f45-bb19983cb212/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg",TV ONE
 https://etslive-2-vidio-com.akamaized.net/exp=1575487756~acl=/hls-p/ingest_783_*/*~hmac=6bd33094fa5bf6cf538be89ae93e13213bfbbe1f9f5bd6576ac7c145e773ee17/hls-p/ingest_783_720p/index.m3u8
@@ -37,9 +37,6 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg",MNC NEWS
-https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
@@ -53,110 +50,110 @@ https://etslive-2-vidio-com.akamaized.net/exp=1575488428~acl=/hls-p/ingest_geo_1
 https://etslive-2-vidio-com.akamaized.net/exp=1575488476~acl=/hls-p/ingest_875_*/*~hmac=a57894e0233e5158acf634c083975279ad706c5113131b4a30f7f5b9193d4184/hls-p/ingest_875_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg",TVRI
-https://cdn-livetv1.metube.id/hls/tvri_240/745447.ts
+https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg",DW
 https://etslive-2-vidio-com.akamaized.net/exp=1575488584~acl=/hls-p/ingest_5075_*/*~hmac=6245a165859443dd292e68ffda3a262daf3257df2ca0e0c732abc800a3fa853e/hls-p/ingest_5075_720p/index.m3u8
 
-#EXTINF:-16,JTV
+#EXTINF:-1,JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-16,MAINAN OLIVE DAN DARRELL
+#EXTINF:-1,MAINAN OLIVE DAN DARRELL
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-16,THRILL
+#EXTINF:-1,THRILL
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1,Sky Cinema Uno HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/297.m3u8
 
-#EXTINF:-16,FTV
+#EXTINF:-1,FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 ############################
-#EXTINF:-1," group-title="Sport", MNC SPORT
+#EXTINF:-1 tvg-logo=""," group-title="Sport", MNC SPORT
 https://cdn-livetv1.metube.id/hls/mncsport_480/index.m3u8
 
-#EXTINF:-1," group-title="Sport", ADSPORT1
+#EXTINF:-1 tvg-logo=""," group-title="Sport", ADSPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
 
-#EXTINF:-1," group-title="Sport", ADSPORT2
+#EXTINF:-1 tvg-logo=""," group-title="Sport", ADSPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
 
-#EXTINF:-1 ," group-title="Sport", FOX SPORT 1
+#EXTINF:-1 tvg-logo=""," group-title="Sport", FOX SPORT 1
 http://27.254.149.109:8081/tumlive/Foxsport1/playlist.m3u8
 
-#EXTINF:-1 ," group-title="Sport", FOX SPORT 2
+#EXTINF:-1 tvg-logo=""," group-title="Sport", FOX SPORT 2
 http://27.254.149.109:8081/tumlive/Foxsport2/playlist.m3u8
 
-#EXTINF:-1," group-title="Sport", STARs1
+#EXTINF:-1 tvg-logo=""," group-title="Sport", STARs1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34489
 
-#EXTINF:-1," group-title="Sport", STARs2
+#EXTINF:-1 tvg-logo=""," group-title="Sport", STARs2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34488
 
-#EXTINF:-1," group-title="Sport", SONY TEN1
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY TEN1
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34486
 
-#EXTINF:-1," group-title="Sport", SONY TEN2
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY TEN2
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34485
 
-#EXTINF:-1," group-title="Sport", SONY TEN3
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY TEN3
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34484
 
-#EXTINF:-1," group-title="Sport", SONY ESPN
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY ESPN
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34495
 
-#EXTINF:-1," group-title="Sport", SONY SIX
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SONY SIX
 http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34494
 
-#EXTINF:-1," group-title="Sport", SK1
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SK1
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/444.ts
 
-#EXTINF:-1," group-title="Sport", SK2
+#EXTINF:-1 tvg-logo=""," group-title="Sport", SK2
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/445.ts
 
-#EXTINF:-1," group-title="Sport", RMC SPORT 1HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", RMC SPORT 1HD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
 
-#EXTINF:-1," group-title="Sport", RMC SPORT 2FHD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", RMC SPORT 2FHD
 http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 
-#EXTINF:-1," group-title="Sport", REDBULL TV
+#EXTINF:-1 tvg-logo=""," group-title="Sport", REDBULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/3245fe_9ae14871eb914b9bb2f541fc612fb1c7~mv2.png/v1/fill/w_312,h_168,al_c,lg_1,q_80/astro-sports.webp" group-title="Sport",ASTRO SUPERSPORT
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3245fe_9ae14871eb914b9bb2f541fc612fb1c7~mv2.png/v1/fill/w_312,h_168,al_c,lg_1,q_80/astro-sports.webp" group-title="Sport",ASTRO SUPERSPORT 1
 http://198.255.5.58:9981/stream/channelid/1967715841?ticket=8B47152DA7663A4646CAD56DE02BC1BCB501636E&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Astro_supersport_2_flat_logo.png/revision/latest?cb=20190821105105" group-title="Sport",ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Astro_supersport_2_flat_logo.png/revision/latest?cb=20190821105105" group-title="Sport",ASTRO SUPERSPORT 2
 http://198.255.5.58:9981/stream/channelid/1006895579?ticket=99F5F6609B85C941C68055D7DF848175FF12E046&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Astro_supersport_3_flat_logo.png/revision/latest?cb=20190821131528" group-title="Sport",ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Astro_supersport_3_flat_logo.png/revision/latest?cb=20190821131528" group-title="Sport",ASTRO SUPERSPORT 3
 http://198.255.5.58:9981/stream/channelid/762672896?ticket=D49AFE88D3E1F0486C905B9937637E29F5C0CD6F&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
 http://198.255.5.58:9981/stream/channelid/813529725?ticket=AC790DCD7C457A8A336072B8BBE2A9D8307CFE1F&profile=pass
 
-#EXTINF:-1," group-title="Sport", Sky Sport 24 HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport 24 HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/294.m3u8
 
-#EXTINF:-1," group-title="Sport", Sky Sport MotoGP HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport MotoGP HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/305.m3u8
 
-#EXTINF:-1," group-title="Sport", Sky Sport F1 Full HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport F1 Full HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/310.m3u8
 
-#EXTINF:-1," group-title="Sport", Sky Sport Arena HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport Arena HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/313.m3u8
 
-#EXTINF:-1," group-title="Sport", Super Tennis HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Super Tennis HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/341.m3u8
 
-#EXTINF:-1," group-title="Sport", Sky Sport NBA HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport NBA HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/331.m3u8
 
-#EXTINF:-1," group-title="Sport", Sky Sport Uno Full HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport Uno Full HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
 
-#EXTINF:-1," group-title="Sport", Sky Sport Serie A HD
+#EXTINF:-1 tvg-logo=""," group-title="Sport", Sky Sport Serie A HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
