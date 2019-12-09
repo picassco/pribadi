@@ -43,108 +43,106 @@ http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=0
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 ###########################################
-
-#EXTINF:-1 group-title="Cinema",THRILL
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="thrill" group-title="Cinema",THRILL
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 group-title="Cinema",Sky Cinema Uno HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/297.m3u8
-#EXTINF:-1 group-title="Cinema", FTV
+#EXTINF:-1 tvg-id="" tvg-name="ftv" group-title="Cinema", FTV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 group-title="Cinema", HD Fashion & Lifestyle UA
+#EXTINF:-1 tvg-id="" tvg-name="ftv ud" group-title="Cinema", HD Fashion & Lifestyle UA
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 
 ###################################################
-
-#EXTINF:-1 tvg-name="FOX" tvg-logo="" group-title="INDIHOME TV",FOX
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="INDIHOME TV",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
-#EXTINF:-1 tvg-name="FOX FAMILI MOVIES" tvg-logo="" group-title="INDIHOME TV",FOX Family Movies
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILI MOVIES" tvg-logo="" group-title="INDIHOME TV",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="" group-title="INDIHOME TV",Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="INDIHOME TV",Fox Movies
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="" group-title="INDIHOME TV",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="INDIHOME TV",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 tvg-name="HBO SIGNATURE" tvg-logo="" group-title="INDIHOME TV",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="INDIHOME TV",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="INDIHOME TV",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="INDIHOME TV",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-#EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDIHOME TV",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDIHOME TV",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 tvg-name="ASIAN FOOD CHANEL" tvg-logo="" group-title="INDIHOME TV",Asian Food Channel
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN FOOD CHANEL" tvg-logo="" group-title="INDIHOME TV",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-#EXTINF:-1 tvg-name="AXN" tvg-logo="" group-title="INDIHOME TV",AXN
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="INDIHOME TV",AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="INDIHOME TV",BBC World News
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="INDIHOME TV",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-#EXTINF:-1 tvg-name="BLOOMBERG INTERNATIONAL" tvg-logo="" group-title="INDIHOME TV",Bloomberg International
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG INTERNATIONAL" tvg-logo="" group-title="INDIHOME TV",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:-1 tvg-name="BLUE ANT EXTREME" tvg-logo="" group-title="INDIHOME TV",Blue Ant Extreme
+#EXTINF:-1 tvg-id="" tvg-name="BLUE ANT EXTREME" tvg-logo="" group-title="INDIHOME TV",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INDIHOME TV",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="INDIHOME TV",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-#EXTINF:-1 tvg-name="DESNEY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="DESNEY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 tvg-name="CNBC INTERNATIONAL" tvg-logo="" group-title="INDIHOME TV",CNBC International
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INTERNATIONAL" tvg-logo="" group-title="INDIHOME TV",CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="INDIHOME TV",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="INDIHOME TV",History Channel
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="INDIHOME TV",History Channel
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-#EXTINF:-1 tvg-name="NAT GEO PEOPLE" tvg-logo="" group-title="INDIHOME TV",NAT GEO People
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO PEOPLE" tvg-logo="" group-title="INDIHOME TV",NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="" group-title="INDIHOME TV",NAT GEO Wild
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="INDIHOME TV",NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="INDIHOME TV",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="INDIHOME TV",National Geographic
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 tvg-name="NICKELODEON ASIA" tvg-logo="" group-title="INDIHOME TV",Nickelodeon Asia
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON ASIA" tvg-logo="" group-title="INDIHOME TV",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="INDIHOME TV",TLC
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="INDIHOME TV",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pas
 
 ############################
-
-#EXTINF:-1 tvg-name="AD1" tvg-logo="" group-title="Sport", ADSPORT1
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AD1" tvg-logo="" group-title="Sport", ADSPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", ADSPORT2
+#EXTINF:-1 tvg-id="" tvg-name="AD2" tvg-logo="" group-title="Sport", ADSPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", True Premier1
+#EXTINF:-1 tvg-id="" tvg-name="true premier1" tvg-logo="" group-title="Sport", True Premier1
 https://livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", True Premier2
+#EXTINF:-1 tvg-id="" tvg-name="true premier2" tvg-logo="" group-title="Sport", True Premier2
 https://livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="Sport",  True Sport HD1
+#EXTINF:-1 tvg-id="" tvg-name="true" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd.jpg" group-title="Sport",  True Sport HD1
 https://livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="Sport", True Sport HD2
+#EXTINF:-1 tvg-id="" tvg-name="true" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd2.jpg" group-title="Sport", True Sport HD2
 https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:0  tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="Sport", True Sport HD3
+#EXTINF:-1 tvg-id="" tvg-name="true" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesportshd3.jpg" group-title="Sport", True Sport HD3
 https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport", True Sport HD4
+#EXTINF:-1 tvg-id="" tvg-name="true sport" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="Sport", True Sport HD4
 https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="Sport",Truesport 2
+#EXTINF:-1 tvg-id="" tvg-name="true sport2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="Sport",Truesport 2
 https://livedoomovie.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="Sport",Truesport 5
+#EXTINF:-1 tvg-id="" tvg-name="true sport5" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="Sport",Truesport 5
 http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="Sport",Truesport 6
+#EXTINF:-1 tvg-id="" tvg-name="true sport6" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="Sport",Truesport 6
 http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="Sport",Truesport 7
+#EXTINF:-1 tvg-id="" tvg-name="truesport7" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="Sport",Truesport 7
 http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Fox Sport1
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="" group-title="Sport", Fox Sport1
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Fox Sport2
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 2" tvg-logo="" group-title="Sport", Fox Sport2
 https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Fox Sport3
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 3" tvg-logo="" group-title="Sport", Fox Sport3
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
+#EXTINF:-1 tvg-id="" tvg-name="sky sport" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sport", SkynetsportHD
 https://livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title="Sport", Skynetsport1
+#EXTINF:-1 tvg-id="" tvg-name="sky sport1" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png"  group-title="Sport", Skynetsport1
 https://livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"  group-title="Sport", Skynetsport2
+#EXTINF:-1 tvg-id="" tvg-name="sky sport2" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png"  group-title="Sport", Skynetsport2
 https://livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"  group-title="Sport", Skynetsport3
+#EXTINF:-1 tvg-id="" tvg-name="sky sport3" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png"  group-title="Sport", Skynetsport3
 https://livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sport", Skynetsport4
+#EXTINF:-1 tvg-id="" tvg-name="sky sport4" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sport", Skynetsport4
 https://livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sport", Skynetsport5
+#EXTINF:-1 tvg-id="" tvg-name="sky sport5" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sport", Skynetsport5
 https://livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport", Skynetsport6
+#EXTINF:-1 tvg-id="" tvg-name="sky sport6" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport", Skynetsport6
 https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kingufa.tv/wp-content/uploads/2019/04/chskynetsportplus.jpg" group-title="Sport",SKYNETSPORT Plus
 https://leechviplink.ddnslive.com/app/skynetplus/chunks.m3u8
@@ -180,18 +178,18 @@ http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
 
 #########################################################################################################
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Premium Sports", beIN 1
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Premium Sports", beIN 1
 https://livedoomovie.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Premium Sports", beIN 2
+#EXTINF:-1 tvg-id="" tvg-name="bein 2" tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="Premium Sports", beIN 2
 https://livedoomovie.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Premium Sports", Fox Sport 1 Asia
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Premium Sports", Fox Sport 1 Asia
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Premium Sports", Fox Sport 2 Asia
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Premium Sports", Fox Sport 2 Asia
 https://livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Premium Sports", Fox Sport 3 Asia
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 2" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Premium Sports", Fox Sport 3 Asia
 https://livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Premium Sports", Fox Sports News Australia
+#EXTINF:-1 tvg-id="" tvg-name="fox sport 3" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Premium Sports", Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="http://p1.img.cctvpic.com/photoAlbum/templet/special/PAGETEIZZ4GiRbyPpk11xQdL160414/ELMTWHMxJ0d8XhldQZEClglQ160414_1460625135.png" group-title="Premium Sports",CCTV-5 体育频道
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
@@ -235,13 +233,13 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv2.br.png" group-title="Premium Sports",SporTV 2
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_346/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 1
+#EXTINF:-1 tvg-id="" tvg-name="premier1" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 1
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 2
+#EXTINF:-1 tvg-id="" tvg-name="premier1" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 2
 http://119.59.116.83:8081/4k/t2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 3
+#EXTINF:-1 tvg-id="" tvg-name="premier1" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 3
 https://livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 4
+#EXTINF:-1 tvg-id="" tvg-name="premier1" tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 4
 https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Premium Sports", Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
