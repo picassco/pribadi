@@ -1,45 +1,45 @@
-#EXTM3U8
-#EXTINF:-1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1" group-title="PREMIUM HOME TV",CNN INDONESIA
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo.png?v=9.0.1" group-title="PREMIUM HOME TV",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w148876041_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=1.8.1" group-title="PREMIUM HOME TV",CNBC INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="cnbc" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=1.8.1" group-title="PREMIUM HOME TV",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="PREMIUM HOME TV",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="sctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="PREMIUM HOME TV",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1576014603~acl=/hls-p/ingest_204_*/*~hmac=fa37078234f5555dd5b5b693ffbb4eafc6b91f9ce59ef3398c77ba9a6067ed99/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="PREMIUM HOME TV",INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="indosiar" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="PREMIUM HOME TV",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1576015468~acl=/hls-p/ingest_205_*/*~hmac=47f1e90a3ddb7e093f96e6a019aed04cd385277ee8a03499fc1f37d4d79bdac8/hls-p/ingest_205_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg" group-title="PREMIUM HOME TV",KOMPAS
+#EXTINF:-1 tvg-id="" tvg-name="kompas" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg" group-title="PREMIUM HOME TV",KOMPAS
 http://210.210.155.35/session/17ae3380-1585-11ea-9f45-bb19983cb212/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg" group-title="PREMIUM HOME TV",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="tv one" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg" group-title="PREMIUM HOME TV",TV ONE
 https://etslive-2-vidio-com.akamaized.net/exp=1576015541~acl=/hls-p/ingest_783_*/*~hmac=0ba3b7f7ecc21e12b086faef8663c6a81cd40d8dcd15c24e94a7094d1b955da4/hls-p/ingest_783_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1WDgtJrnV0iA7RX_dNo-OP1JTXc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="PREMIUM HOME TV",BERITA SATU
+#EXTINF:-1 tvg-id="" tvg-name="berita satu" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1WDgtJrnV0iA7RX_dNo-OP1JTXc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="PREMIUM HOME TV",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="PREMIUM HOME TV",METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="metro tv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="PREMIUM HOME TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="PREMIUM HOME TV",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="antv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="PREMIUM HOME TV",ANTV
 https://cdnbal1.useetv.com/joss/15/antv/chunklist_w745724826_b894100_sleng.m3u8?enc=HhfHe9KhB5OAqCaPQnG-Og&exp=1575880596
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="PREMIUM HOME TV",TRANS7
+#EXTINF:-1 tvg-id="" tvg-name="trans7" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="PREMIUM HOME TV",TRANS7
 https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G8OsWo8xyYNs9FMDwWHXAro)/dm/3/x6p1gw7/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="PREMIUM HOME TV",TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="transtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="PREMIUM HOME TV",TRANS TV
 https://stream-03.sg1.dailymotion.com/sec(E-jzZRG7S4T1sGdliNQCuVrX0TQz88FJFWrcr618Ois)/dm/3/x4nwi47/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="PREMIUM HOME TV",RCTI
+#EXTINF:-1 tvg-id="" tvg-name="rcti" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="PREMIUM HOME TV",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="PREMIUM HOME TV",MNC
+#EXTINF:-1 tvg-id="" tvg-name="mnc" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="PREMIUM HOME TV",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="PREMIUM HOME TV",GTV
+#EXTINF:-1 tvg-id="" tvg-name="gtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="PREMIUM HOME TV",GTV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="PREMIUM HOME TV",I NEWS
+#EXTINF:-1 tvg-id="" tvg-name="inews" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="PREMIUM HOME TV",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="PREMIUM HOME TV",RTV
+#EXTINF:-1 tvg-id="" tvg-name="rtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="PREMIUM HOME TV",RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1576016111~acl=/hls-p/ingest_geo_1561_*/*~hmac=6fdd4c4b63efb2530a58cb84884e8fc1cf3a449d81fcabc9af0b4b1282ff1135/hls-p/ingest_geo_1561_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="PREMIUM HOME TV",NET
+#EXTINF:-1 tvg-id="" tvg-name="net" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="PREMIUM HOME TV",NET
 https://etslive-2-vidio-com.akamaized.net/exp=1576016033~acl=/hls-p/ingest_875_*/*~hmac=0e347300ff961a123a8748622ac8083b708a57dd5d6a825f982e51f1f4069fa4/hls-p/ingest_875_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="PREMIUM HOME TV",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="tvri" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="PREMIUM HOME TV",TVRI
 https://etslive-2-vidio-com.akamaized.net/exp=1576015929~acl=/hls-p/ingest_6441_*/*~hmac=bd005807bd66274471d729c9558579e81e30bb82314d7cec58b4778ac8cec31c/hls-p/ingest_6441_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="PREMIUM HOME TV",DW
+#EXTINF:-1 tvg-id="" tvg-name="tvg-id="" tvg-name="dw" " tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="PREMIUM HOME TV",DW
 https://etslive-2-vidio-com.akamaized.net/exp=1576015855~acl=/hls-p/ingest_5075_*/*~hmac=c3f41d398633ba3ce68b696b1f5f9c06d68fb87b53a88a655ff938133fb9a4e9/hls-p/ingest_5075_720p/index.m3u8
-#EXTINF:-1 group-title="PREMIUM HOME TV",JTV
+#EXTINF:-1 tvg-id="" tvg-name="jtv" group-title="PREMIUM HOME TV",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="PREMIUM HOME TV",MAINAN OLIVE DAN DARRELL
+#EXTINF:-1 tvg-id="" tvg-name="disney ind" group-title="PREMIUM HOME TV",MAINAN OLIVE DAN DARRELL
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 ###########################################
@@ -179,183 +179,6 @@ http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
 #EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport Serie A HD
 http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
 
-######################################################################################################################
-
-#EXTINF:-1 group-title="Banyak Banget",(DE) DAZN Bar 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/37069
-#EXTINF:-1 group-title="Banyak Banget",(DE) DAZN Bar 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/37070
-#EXTINF:-1 group-title="Banyak Banget",(DE) Eurosport 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/15927
-#EXTINF:-1 group-title="Banyak Banget",(DE) Eurosport 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/15928
-#EXTINF:-1 group-title="Banyak Banget",(DE) Sky Bundesliga 1 HD+ (Backup 1)
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/27389
-#EXTINF:-1 group-title="Banyak Banget",(DE) Sky Sport 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/28546
-#EXTINF:-1 group-title="Banyak Banget",(DE) Sky Sport 1 HD+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/182
-#EXTINF:-1 group-title="Banyak Banget",(DE) Sky Sport 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/15943
-#EXTINF:-1 group-title="Banyak Banget",(DE) Sky Sport 2 HD+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/183
-#EXTINF:-1 group-title="Banyak Banget",(FR) beIN Sports 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/158
-#EXTINF:-1 group-title="Banyak Banget",(FR) beIN Sports 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/159
-#EXTINF:-1 group-title="Banyak Banget",(FR) beIN Sports 3 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/1219
-#EXTINF:-1 group-title="Banyak Banget",(IT) Dazn 1 HD+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/38186
-#EXTINF:-1 group-title="Banyak Banget",(IT) Dazn 2 HD+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/38187
-#EXTINF:-1 group-title="Banyak Banget",(IT) Sky Sport 1 HD+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/4395
-#EXTINF:-1 group-title="Banyak Banget",(IT) Sky Sport 24 HD+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/296
-#EXTINF:-1 group-title="Banyak Banget",(LT) Fox Sports 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/24969
-#EXTINF:-1 group-title="Banyak Banget",(LT) Fox Sports 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/24970
-#EXTINF:-1 group-title="Banyak Banget",(NL) FOX Sports 3 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/9708
-#EXTINF:-1 group-title="Banyak Banget",(NL) FOX Sports 4 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/9758
-#EXTINF:-1 group-title="Banyak Banget",(NL) FOX Sports 5 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/9709
-#EXTINF:-1 group-title="Banyak Banget",(NL) FOX Sports 6 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/9710
-#EXTINF:-1 group-title="Banyak Banget",(NL) Ziggo Sport Select 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/9683
-#EXTINF:-1 group-title="Banyak Banget",(NL) Ziggo Sport Voetbal 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/9681
-#EXTINF:-1 group-title="Banyak Banget",(QA) beIN Sports 10 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/13250
-#EXTINF:-1 group-title="Banyak Banget",(QA) beIN Sports 11 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/1968
-#EXTINF:-1 group-title="Banyak Banget",(QA) beIN Sports 12 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/1969
-#EXTINF:-1 group-title="Banyak Banget",(UK) BT Sport 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/11484
-#EXTINF:-1 group-title="Banyak Banget",(UK) BT Sport 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/11485
-#EXTINF:-1 group-title="Banyak Banget",(UK) BT Sport 3 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/11486
-#EXTINF:-1 group-title="Banyak Banget",(UK) BT Sport ESPN 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/316
-#EXTINF:-1 group-title="Banyak Banget",(UK) Eurosport 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/985
-#EXTINF:-1 group-title="Banyak Banget" group-title="Banyak Banget",(UK) Sky Sports Action 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/11400
-#EXTINF:-1 group-title="Banyak Banget",(UK) Sky Sports Arena 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/28035
-#EXTINF:-1 group-title="Banyak Banget",(UK) Sky Sports F1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/214
-#EXTINF:-1 group-title="Banyak Banget",(UK) Sky Sports Golf 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/11401
-#EXTINF:-1 group-title="Banyak Banget",(UK) Sky Sports Main Event 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/7641
-#EXTINF:-1 group-title="Banyak Banget",(UK) Sky Sports Mix 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/22456
-#EXTINF:-1 group-title="Banyak Banget",(UK) Sky Sports Premier League 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/213
-#EXTINF:-1 group-title="Banyak Banget",(UK) beIN Sports 11 (ENG)
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/13251
-#EXTINF:-1 group-title="Banyak Banget",(US) Bein Sports 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18240
-#EXTINF:-1 group-title="Banyak Banget",(US) Fox Sport 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18206
-#EXTINF:-1 group-title="Banyak Banget",(US) Fox Sport 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18205
-#EXTINF:-1 group-title="Banyak Banget",(US) SportsNet One 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18154
-#EXTINF:-1 group-title="Banyak Banget",(US) TSN 1 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18139
-#EXTINF:-1 group-title="Banyak Banget",(US) TSN 2 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18138
-#EXTINF:-1 group-title="Banyak Banget",(US) TSN 3 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18137
-#EXTINF:-1 group-title="Banyak Banget",(US) TSN 4 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18136
-#EXTINF:-1 group-title="Banyak Banget",(US) TSN 5 4K+
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/18135
-#EXTINF:-1 group-title="Banyak Banget",DE - SKY Sport 1 HD+ (Backup 1)
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/27429
-#EXTINF:-1 group-title="Banyak Banget",DE - SKY Sport 2 HD+ (Backup 1)
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/27428
-#EXTINF:-1 group-title="Banyak Banget",DE - SKY Sport 3 HD+ (Backup 1)
-http://178.132.7.106:1339/XLcktZMHNC/Y8SWUcvPYh/27427
-
-#EXTINF:-1 group-title="Banyak Banget",|UK| BT SPORT 1 HD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3256.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| BT SPORT 2 HD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3258.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| BT SPORT 3 HD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3260.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| BT SPORT / ESPN HD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3255.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| EUROSPORTS 1 FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3051.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| EUROSPORTS 2 FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3052.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| SKY SPORTS ACTION FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3113.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| SKY SPORTS ARENA FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3114.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| SKY SPORTS F1 FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3116.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| SKY SPORTS MAIN EVENT FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3119.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| SKY SPORTS MIX FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3111.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| SKY SPORTS PREMIER LEAGUE FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3120.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| PREMIER SPORTS FHD
-http://iptv6.premium-stv.com:25461/live/sourceukpro1/6256905511/3086.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|UK| PREMIER SPORTS 2 FHD
-http://iptv6.premium-stv.com2:5461/live/sourceukpro1/6256905511/3087.ts
-
-#EXTINF:-1 group-title="Banyak Banget",|NL| Fox Sport 3 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/992.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|NL| Fox Sport 4 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/991.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|NL| Fox Sport 5 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/990.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|NL| Fox Sport 6 HD
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/989.m3u8
-#EXTINF:-1 group-title="Banyak Banget",|NL| ZIGGO SPORT VOETBAL
-http://iptv6.premium-stv.com:25461/live/sourcenederlandpro2/6544963080/1263.m3u8
-
-#EXTINF:-1 group-title="Banyak Banget",|CA| TSN  3HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/373
-#EXTINF:-1 group-title="Banyak Banget",|CA| TSN 1HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/372
-#EXTINF:-1 group-title="Banyak Banget",|CA| TSN 4HD
-http://iptv6.premium-stv.com:25461/sourcecanadapro2/0254638728/371
-
-#EXTINF:-1 group-title="Banyak Banget",DE - Eurosport 2 HD
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/719
-#EXTINF:-1 group-title="Banyak Banget",DE - SKY SPORT 1
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/761
-#EXTINF:-1 group-title="Banyak Banget",DE - Sky Sport 2 HD
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/764
-#EXTINF:-1 group-title="Banyak Banget",ELEVEN SPORTS 1
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1091
-#EXTINF:-1 group-title="Banyak Banget",ELEVEN SPORTS 2 HD
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1089
-#EXTINF:-1 group-title="Banyak Banget",ELEVEN SPORTS 2
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1092
-#EXTINF:-1 group-title="Banyak Banget",ELEVEN SPORTS 3 HD
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1090
-#EXTINF:-1 group-title="Banyak Banget",ELEVEN SPORTS 3
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/1093
-#EXTINF:-1 group-title="Banyak Banget",FR - BEIN SPORTS 1 HD
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/436
-#EXTINF:-1 group-title="Banyak Banget",FR - BEIN SPORTS 3
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/437
-#EXTINF:-1 group-title="Banyak Banget",FR - Bein Sports 2 HD
-http://lelotv.soeu.work:8080/pinho/tjR4m0KKWC/491
-
 #########################################################################################################
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Premium Sports", beIN 1
@@ -384,20 +207,16 @@ https://livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
 https://livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://imgdynamic.tlcdn1.com/api/image/get?url=https://tvthumb.dmpcdn.com/data_img/2016/01/logo_062.png" group-title="Premium Sports",True Sport HD4
 https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.dsport.in/wp-content/uploads/2018/10/NewDSport_White.png" group-title="Premium Sports", Discovery Sports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="Premium Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="Premium Sports",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://image.jtbc3foxsports.joins.com/common/logo.png" group-title="Premium Sports", JTBC 3
 http://139.99.136.95:2306/jtbc3/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSSports.kr.png"  group-title="Premium Sports",SBS Sports
 http://139.99.136.95:2306/sbssports/video.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="Premium Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 #EXTINF:-1 tvg-logo="https://mysports.ch/portal/assets/images/logos/mysports-logo-inverse.png" group-title="Premium Sports", MySports 1
@@ -416,7 +235,6 @@ http://92.46.127.146:8080//SetantaSport/index.m3u8
 http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/Sportv2.br.png" group-title="Premium Sports",SporTV 2
 https://globolive.akamaized.net/d/c/x2800/s/hls-spo224ha/hls-spo224ha_346/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 1
 http://119.59.116.83:8081/4k/t1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2a/cc/ee/2accee3ed2f6c675d66001711dcbd1c4.png" group-title="Premium Sports", Premier Football 2
@@ -429,7 +247,6 @@ https://livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:0 tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="Premium Sports", Real Madrid TV Español
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.jtbcgolf.joins.com/mypage/img//m_jtbcgolf_logo.png" group-title="Premium Sports", JTBC Golf
 http://139.99.136.95:2306/jtbcgolf/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/SBSGolf.kr.png"  group-title="Premium Sports",SBS Golf
@@ -442,7 +259,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://203.162.235.41:16924
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cctvgefwq.jpg" group-title="Premium Sports",CCTV 高尔夫·网球
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
-
 #EXTINF:-1 tvg-logo="http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/luh8fqfqetgkhkmx9lst.jpg" group-title="Premium Sports",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 tvg-ID="13.ts" tvg-logo="https://static.iptv-epg.com/ae/DubaiRacing.ae.png" group-title="Premium Sports",Dubai Racing 
@@ -451,12 +267,10 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/RacingCom.au.png" group-title="Premium Sports", Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-
 #EXTINF:-1 tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="Premium Sports", Fight Sports
 http://45.126.83.51/uq2663/h/h05/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/IBSports.kr.png"  group-title="Premium Sports",IB Sports
 http://139.99.136.95:2306/ibsports/video.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tennistv.com/help/wp-content/themes/tennistv-support/dist/images/tennistv-footer.png" group-title="Premium Sports", ATP Tennis TV
 http://203.154.243.89:11739
 #EXTINF:-1 tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="Premium Sports", Tennis Channel
