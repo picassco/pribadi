@@ -22,13 +22,13 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2089380245_b384000_sl
 #EXTINF:-1 tvg-id="" tvg-name="transtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="PREMIUM HOME TV",TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="rcti" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="PREMIUM HOME TV",RCTI
-http://zaman-now.com/﻿zxtvxz﻿/RCTI_2
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="mnc" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="PREMIUM HOME TV",MNC
 http://id6.indostreamingtv.com:80/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="gtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="PREMIUM HOME TV",GTV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="inews" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="PREMIUM HOME TV",I NEWS
-http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.175:80/000001/2/ch14041511541532132975/1001.m3u8?IASHttpSessionId=OTT2913201911252238551998837&ztecid=ch14041511541532132975&bandwidth=491305&ispcode=1&timeformat=local&channel=ch14041511541532132975&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDcvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="rtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="PREMIUM HOME TV",RTV
 https://etslive-2-vidio-com.akamaized.net/exp=1576016111~acl=/hls-p/ingest_geo_1561_*/*~hmac=6fdd4c4b63efb2530a58cb84884e8fc1cf3a449d81fcabc9af0b4b1282ff1135/hls-p/ingest_geo_1561_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="net" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="PREMIUM HOME TV",NET
