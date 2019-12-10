@@ -8,7 +8,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1576014603~acl=/hls-p/ingest_204_*
 #EXTINF:-1 tvg-id="" tvg-name="indosiar" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="PREMIUM HOME TV",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net/exp=1576015468~acl=/hls-p/ingest_205_*/*~hmac=47f1e90a3ddb7e093f96e6a019aed04cd385277ee8a03499fc1f37d4d79bdac8/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="kompas" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg" group-title="PREMIUM HOME TV",KOMPAS
-http://210.210.155.35/session/17ae3380-1585-11ea-9f45-bb19983cb212/qwr9ew/s/s104/01.m3u8
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="tv one" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg" group-title="PREMIUM HOME TV",TV ONE
 https://etslive-2-vidio-com.akamaized.net/exp=1576015541~acl=/hls-p/ingest_783_*/*~hmac=0ba3b7f7ecc21e12b086faef8663c6a81cd40d8dcd15c24e94a7094d1b955da4/hls-p/ingest_783_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="berita satu" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/1WDgtJrnV0iA7RX_dNo-OP1JTXc=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="PREMIUM HOME TV",BERITA SATU
@@ -16,7 +16,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="metro tv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="PREMIUM HOME TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="antv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="PREMIUM HOME TV",ANTV
-http://zaman-now.com/zxtvxz/ANTV_2
+http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="trans7" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="PREMIUM HOME TV",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2089380245_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="transtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="PREMIUM HOME TV",TRANS TV
