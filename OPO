@@ -4,9 +4,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w148876041_b3840
 #EXTINF:-1 tvg-id="" tvg-name="cnbc" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=1.8.1" group-title="PREMIUM HOME TV",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1727180659_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sctv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="PREMIUM HOME TV",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1576014603~acl=/hls-p/ingest_204_*/*~hmac=fa37078234f5555dd5b5b693ffbb4eafc6b91f9ce59ef3398c77ba9a6067ed99/hls-p/ingest_204_720p/index.m3u8
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="indosiar" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/H_iXYpxkAg9JJ_GBwdRgyxloPFg=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-5ff623.jpg" group-title="PREMIUM HOME TV",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1576015468~acl=/hls-p/ingest_205_*/*~hmac=47f1e90a3ddb7e093f96e6a019aed04cd385277ee8a03499fc1f37d4d79bdac8/hls-p/ingest_205_720p/index.m3u8
+http://id1.indostreamingtv.com:80/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="kompas" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9MyjO0htejJ1IzHCrGCxwVPNr4w=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-stream-b35243.jpg" group-title="PREMIUM HOME TV",KOMPAS
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="tv one" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IhqgwPa4mH6ErXYx_jFxgtjfgWM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-tv-stream-91e8af.jpg" group-title="PREMIUM HOME TV",TV ONE
@@ -30,13 +30,13 @@ http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="inews" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="PREMIUM HOME TV",I NEWS
 http://202.80.222.175:80/000001/2/ch14041511541532132975/1001.m3u8?IASHttpSessionId=OTT2913201911252238551998837&ztecid=ch14041511541532132975&bandwidth=491305&ispcode=1&timeformat=local&channel=ch14041511541532132975&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMDcvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="rtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="PREMIUM HOME TV",RTV
-https://etslive-2-vidio-com.akamaized.net/exp=1576016111~acl=/hls-p/ingest_geo_1561_*/*~hmac=6fdd4c4b63efb2530a58cb84884e8fc1cf3a449d81fcabc9af0b4b1282ff1135/hls-p/ingest_geo_1561_720p/index.m3u8
+http://202.80.222.174/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="net" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0xLEF55Cku1EFhGQth9G42Z6BqQ=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg" group-title="PREMIUM HOME TV",NET
-https://etslive-2-vidio-com.akamaized.net/exp=1576016033~acl=/hls-p/ingest_875_*/*~hmac=0e347300ff961a123a8748622ac8083b708a57dd5d6a825f982e51f1f4069fa4/hls-p/ingest_875_720p/index.m3u8
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvri" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Y7b1fAY4SCRsqOMoYe10kDjXee4=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="PREMIUM HOME TV",TVRI
-https://etslive-2-vidio-com.akamaized.net/exp=1576015929~acl=/hls-p/ingest_6441_*/*~hmac=bd005807bd66274471d729c9558579e81e30bb82314d7cec58b4778ac8cec31c/hls-p/ingest_6441_720p/index.m3u8
+http://id1.indostreamingtv.com:80/live/tvri/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tvg-id="" tvg-name="dw" " tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XxNmlt3ub3jXb_vU_VVsNI5m_us=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="PREMIUM HOME TV",DW
-https://etslive-2-vidio-com.akamaized.net/exp=1576015855~acl=/hls-p/ingest_5075_*/*~hmac=c3f41d398633ba3ce68b696b1f5f9c06d68fb87b53a88a655ff938133fb9a4e9/hls-p/ingest_5075_720p/index.m3u8
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="jtv" group-title="PREMIUM HOME TV",JTV
 http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
