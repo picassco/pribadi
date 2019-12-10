@@ -73,104 +73,70 @@ http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DETECTIFE CONAN 1
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DETECTIFE CONAN 2
 http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY CHANNEL
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DISNEY JUNIOR ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DORAEMON MOVIE
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DORAEMON SERIES
 http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",DUCK TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ETECTIFE CONAN 3
 http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",HUNTER X HUNTER
 http://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",INUYASHA
 http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",JIMJAM
 http://83.167.253.110:5000/live/jimjam/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",KIDS TV
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",KORUKO' S BASKETBALL
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",KURDMAX PAPULE
 http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",KURIAKOS KIDS
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",NICKELODEON
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",NICKTOONS
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ONE PIECE TV
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",ONE PUNCH MAN
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",SAT7KIDS
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",SUBASA
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TCT KIDS
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TIJI
 http://ott-cdn.ucom.am/s59/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TOM & JERRY TV
 http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TOTALLY SPIES
 http://ws.flv.nimo.tv/live/su1599512427585r47e5a2be5769b2ce776bc4a992c9f6fd_high.flv
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",TUNTUNIK
 http://ott-cdn.ucom.am/s46/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="KIDS",WZRA KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
-
-
 ###################################################
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="INDIHOME TV",FOX
@@ -238,12 +204,6 @@ https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
 https://livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="true sport2" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports2.jpg" group-title="Sport",Truesport 2
 https://livedoomovie.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="true sport5" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports5.jpg" group-title="Sport",Truesport 5
-http://27.254.149.109:8081/tumlive/tsp5/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="true sport6" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports6.jpg" group-title="Sport",Truesport 6
-http://27.254.149.109:8081/tumlive/tsp6/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="truesport7" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/truesports7.jpg" group-title="Sport",Truesport 7
-http://27.254.149.109:8081/tumlive/tsp7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fox sport 1" tvg-logo="" group-title="Sport", Fox Sport1
 https://livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="fox sport 2" tvg-logo="" group-title="Sport", Fox Sport2
@@ -264,39 +224,8 @@ https://livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 https://livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sky sport6" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sport", Skynetsport6
 https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.kingufa.tv/wp-content/uploads/2019/04/chskynetsportplus.jpg" group-title="Sport",SKYNETSPORT Plus
-https://leechviplink.ddnslive.com/app/skynetplus/chunks.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", RMC SPORT 1HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", RMC SPORT 2FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
 #EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", REDBULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="https://static.wixstatic.com/media/3245fe_9ae14871eb914b9bb2f541fc612fb1c7~mv2.png/v1/fill/w_312,h_168,al_c,lg_1,q_80/astro-sports.webp" group-title="Sport",ASTRO SUPERSPORT 1
-http://198.255.5.58:9981/stream/channelid/1967715841?ticket=8B47152DA7663A4646CAD56DE02BC1BCB501636E&profile=pass
-#EXTINF:-1 tvg-name="AD2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/Astro_supersport_2_flat_logo.png/revision/latest?cb=20190821105105" group-title="Sport",ASTRO SUPERSPORT 2
-http://198.255.5.58:9981/stream/channelid/1006895579?ticket=99F5F6609B85C941C68055D7DF848175FF12E046&profile=pass
-#EXTINF:-1 tvg-name="AD2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Astro_supersport_3_flat_logo.png/revision/latest?cb=20190821131528" group-title="Sport",ASTRO SUPERSPORT 3
-http://198.255.5.58:9981/stream/channelid/762672896?ticket=D49AFE88D3E1F0486C905B9937637E29F5C0CD6F&profile=pass
-#EXTINF:-1 tvg-name="AD2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6EpcLlNzOxsz8C1DX62fWk-vloCeZLZuY47YupQG1vuMbnR1b" group-title="Sport",ASTRO SUPERSPORT 4
-http://198.255.5.58:9981/stream/channelid/813529725?ticket=AC790DCD7C457A8A336072B8BBE2A9D8307CFE1F&profile=pass
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport 24 HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/294.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport MotoGP HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/305.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport F1 Full HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/310.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport Arena HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/313.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Super Tennis HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/341.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport NBA HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/331.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport Uno Full HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/328.m3u8
-#EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", Sky Sport Serie A HD
-http://iptv6.premium-stv.com:25461/live/sourceitalypro2/4936722850/329.m3u8
-
 #########################################################################################################
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Premium Sports", beIN 1
