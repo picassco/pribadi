@@ -16,17 +16,17 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="metro tv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UpuqwD5ozux1zPdyNesUDMPi1KM=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-stream-6c1dde.jpg" group-title="PREMIUM HOME TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="antv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gIBbRgCF9dXS02tMr5xoFslcP3Q=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg" group-title="PREMIUM HOME TV",ANTV
-https://cdnbal1.useetv.com/joss/15/antv/chunklist_w745724826_b894100_sleng.m3u8?enc=HhfHe9KhB5OAqCaPQnG-Og&exp=1575880596
+http://zaman-now.com/zxtvxz/ANTV_2
 #EXTINF:-1 tvg-id="" tvg-name="trans7" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/T_5P2D3GnALz61WJM-HRN_ju1H0=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="PREMIUM HOME TV",TRANS7
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G8OsWo8xyYNs9FMDwWHXAro)/dm/3/x6p1gw7/s/live-2.m3u8
+http://zaman-now.com/zxtvxz/Trans7_2
 #EXTINF:-1 tvg-id="" tvg-name="transtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Tq_x61ycBlp0Q0xdf2pTuNnQslA=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg" group-title="PREMIUM HOME TV",TRANS TV
-https://stream-03.sg1.dailymotion.com/sec(E-jzZRG7S4T1sGdliNQCuVrX0TQz88FJFWrcr618Ois)/dm/3/x4nwi47/s/live-2.m3u8
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="rcti" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hoeh27tqzgAbi2IJPnVnNCc25fQ=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-tv-stream-c1a96d.jpg" group-title="PREMIUM HOME TV",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+http://zaman-now.com/zxtvxz/RCTI_2
 #EXTINF:-1 tvg-id="" tvg-name="mnc" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TwrJyJ_ftg6qj8OAIhEvVlAeB0g=/372x211/filters:quality(75):format(webp)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg" group-title="PREMIUM HOME TV",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="gtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="PREMIUM HOME TV",GTV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+http://zaman-now.com/zxtvxz/GTV_2
 #EXTINF:-1 tvg-id="" tvg-name="inews" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5kdmaQL4MOpk3mLVFcSUPHvj68=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="PREMIUM HOME TV",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="rtv" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sSjBuPktN3vMCsIVfA2vcN0sgls=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="PREMIUM HOME TV",RTV
