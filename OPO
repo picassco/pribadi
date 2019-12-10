@@ -54,7 +54,7 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE"",AXN HD
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",AXN HD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",EGG NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
@@ -137,6 +137,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 http://ott-cdn.ucom.am/s46/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS",WZRA KIDS TV
 http://wpso.com:1936/hls/kidshd.m3u8
+
 ###################################################
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="INDIHOME TV",FOX
@@ -226,6 +227,7 @@ https://livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 https://livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-name="AD2" tvg-logo="" group-title="Sport", REDBULL TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 #########################################################################################################
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="bein 1" tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="Premium Sports", beIN 1
